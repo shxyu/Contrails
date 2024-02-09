@@ -15,7 +15,7 @@ SIRO-List
 
 > This is the description of the feed.
 
-電脳少女シロちゃんに関連するワードが含まれる投稿を検索します。－調整中－
+電脳少女シロちゃんに関連するワードが含まれる投稿を検索します。－－調整中－－
 
 # searchTerms
 
@@ -39,6 +39,9 @@ SIRO-List
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
+
+- "嫌い"
+- "引退" 
 
 # safeMode
 
