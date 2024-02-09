@@ -26,6 +26,26 @@ SIRO-List
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - 電脳少女シロ
+- ガリベンガーV
+- サイキ道
+- 白爪草
+- シロ生放送
+- おほほい！おほほい！
+- シロぐみ
+- シロ組
+- そらシロ葵ポカチェ
+- 電腦少女小白
+- 电脑少女小白
+- 白椿蒼
+- 白椿紅
+- 白椿姉妹
+- 電脳濃厚しあわせバター味
+- 叩ケ 叩ケ 手ェ叩ケ
+- 狂い花
+- パリピポ☆ぱいーん
+- 乱闘ロック
+- シロ生誕祭
+- やりおるマンだ
 
 # denyList
 
