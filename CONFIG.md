@@ -25,40 +25,7 @@ SIRO-List
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- SIROyoutuber
-- CyberGirlSiro
-- Siro Channel
 - 電脳少女シロ
-- VR_Siro
-- SiroTalk
-- SiroArt
-- MySiro
-- SiroCos
-- SiroMimic
-- ApexSyrup
-- ガリベンガーV
-- サイキ道
-- 白爪草
-- シロ生放送
-- おほほい！おほほい！
-- シロぐみ
-- シロ組
-- そらシロ葵ポカチェ
-- Siro-chan
-- Sirogumi
-- Cyber Girl Siro
-- 電腦少女小白
-- 电脑少女小白
-- 白椿蒼
-- 白椿紅
-- 白椿姉妹
-- 電脳濃厚しあわせバター味
-- 叩ケ 叩ケ 手ェ叩ケ
-- 狂い花
-- パリピポ☆ぱいーん
-- 乱闘ロック
-- シロ生誕祭
-- やりおるマンだ
 
 # denyList
 
