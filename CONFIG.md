@@ -67,10 +67,6 @@ SIRO-List
 > - did:plc:1234
 > - @spamspamspam.bsky.social
 
-- ドルアン
-- 嫌い
-- 引退
-
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
