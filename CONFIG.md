@@ -33,6 +33,9 @@ SIRO-List
 - "シロ組"
 - "SiroArt"
 - "SiroTalk"
+- "MySiro"
+- "おほほい"
+- "どっとライブ"
 
 # denyList
 
