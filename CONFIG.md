@@ -32,6 +32,7 @@ SIRO-List
 - "シロぐみ"
 - "シロ組"
 - "SiroArt"
+- "SiroTalk"
 
 # denyList
 
@@ -49,7 +50,7 @@ SIRO-List
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-false
+true
 
 # avatar
 
