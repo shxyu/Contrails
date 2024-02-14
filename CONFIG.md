@@ -3,7 +3,7 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-SIRO-feed
+SIRO-list
 
 # displayName
 
@@ -41,11 +41,10 @@ SIRO-feed
 - "SiroCos"
 - "SiroMimic"
 - "ApexSyrup"
-- "Siro-chan"
+- "Siro chan"
 - "Sirogumi"
 - "Cyber Girl Siro"
-- "SIROyoutuber"
-- "CyberGirlSiro"
+- "SIRO youtuber"
 - "Siro Channel"
 
 # denyList
@@ -64,7 +63,7 @@ SIRO-feed
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-true
+false
 
 # avatar
 
