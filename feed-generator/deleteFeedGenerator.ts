@@ -1,5 +1,5 @@
 import dotenv from 'dotenv'
-import { AtpAgent, BlobRef } from '@atproto/syntax'
+import { AtpAgent, BlobRef } from '@atproto/api'
 
 const run = async () => {
   dotenv.config()
