@@ -3,7 +3,7 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-SIRO-List
+SIRO-feed
 
 # displayName
 
@@ -36,6 +36,17 @@ SIRO-List
 - "MySiro"
 - "おほほい"
 - "どっとライブ"
+- "VR_Siro"
+- "MySiro"
+- "SiroCos"
+- "SiroMimic"
+- "ApexSyrup"
+- "Siro-chan"
+- "Sirogumi"
+- "Cyber Girl Siro"
+- "SIROyoutuber"
+- "CyberGirlSiro"
+- "Siro Channel"
 
 # denyList
 
