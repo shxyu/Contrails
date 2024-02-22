@@ -3,7 +3,7 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-SIRO-list
+SIRO-feed
 
 # displayName
 
@@ -15,7 +15,8 @@ SIRO-list
 
 > This is the description of the feed.
 
-電脳少女シロちゃんに関連するワードが含まれる投稿を検索します。－－調整中－－
+電脳少女シロちゃんに関連するワードが含まれる投稿を検索します。
+－－調整中－－
 
 # searchTerms
 
